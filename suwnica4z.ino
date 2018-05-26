@@ -1,8 +1,8 @@
 /**********************************************************************************
- *  moduĹ‚ suwnicy z zaimplementowanymi 
+ *  modul‚ suwnicy z zaimplementowanymi 
  *  krokami bez delay(), 
- *  przerweaniami na kraĹ„cĂłwkach
- *  wprowadzaniem ustawieĹ„ przez wifi telefonu po resecie
+ *  przerweaniami na krancowkach
+ *  wprowadzaniem ustawien przez wifi telefonu po resecie
  * 
  * 
  * 
